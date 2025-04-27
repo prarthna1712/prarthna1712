@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Prarthana
 
 Welcome to my GitHub! I'm an engineering student passionate about building real-world solutions through software development and AI.
 

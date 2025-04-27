@@ -38,35 +38,6 @@ A simple conversational AI app exploring large language models.
 **Tech Stack:** Next.js, OpenAI API, WebSocket
 
 
-
----
-
-## 📚 Skills & Tools
-
-- **Frontend:** React, Next.js, Tailwind CSS, ShadCN UI
-- **Backend:** Flask, Node.js basics
-- **Databases:** MongoDB, SQLite
-- **AI/ML:** Python, Scikit-learn
-- **Other Tools:** GitHub
-
----
-
-## ✨ What I Have Learned
-
-- Full-stack project development from idea to deployment
-- Machine Learning integration into web apps
-- Clean UI/UX development using Tailwind and ShadCN
-- API design, testing, and backend management
-- Version control and collaboration on GitHub
-
----
-
-## 📈 Current Goals
-
-- Build and deploy more real-world full-stack applications
-- Contribute to open-source projects
-- Deepen my knowledge in AI, ML, and cloud technologies
-
 ---
 
 ## 📬 Connect With Me

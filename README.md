@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Prarthana
+# 👋 Hi there! I'm Prarthana  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prarthana-bhalerao)
 
 Welcome to my GitHub! I'm an engineering student passionate about building real-world solutions through software development and AI.
 
@@ -65,7 +65,7 @@ A simple conversational AI app exploring large language models.
 ## 📬 Connect With Me
 
 - GitHub: [github.com/your-username](https://github.com/prarthana1712)
-- [[LinkedIn]](https://linkedin.com/in/prarthana-bhalerao)
+-
 
 ---
 

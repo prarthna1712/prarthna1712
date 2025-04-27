@@ -14,6 +14,11 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 
 ---
 
+## 📈 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+
+---
 ## 🛠️ Projects I've Built
 
 ### 📦 Stock Management System

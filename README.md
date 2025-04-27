@@ -4,11 +4,13 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 
 ---
 
-## 🚀 About Me
+## 💻 Tech Stack:
 
-- 🎓 Pursuing Engineering, specializing in software development and machine learning.
-- 🛠️ Love building full-stack applications and integrating AI technologies into practical projects.
-- 💬 Always excited to learn, collaborate, and contribute to meaningful tech solutions.
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 

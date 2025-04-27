@@ -65,7 +65,7 @@ A simple conversational AI app exploring large language models.
 ## 📬 Connect With Me
 
 - GitHub: [github.com/your-username](https://github.com/prarthana1712)
-- [LinkedIn] (https://linkedin.com/in/prarthana-bhalerao)
+- LinkedIn [https://linkedin.com/in/prarthana-bhalerao]
 
 ---
 

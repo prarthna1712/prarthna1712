@@ -18,9 +18,9 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prarthna1712&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=prarthana1712&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prarthna1712&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prarthana1712&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prarthna1712&layout=compact&theme=tokyonight)
 
 
 

@@ -16,7 +16,8 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 
 ## 📈 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prarthana1712&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prarthana1712&show_icons=true&theme=tokyonight&count_private=true)
+
 
 ---
 ## 🛠️ Projects I've Built

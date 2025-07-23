@@ -30,6 +30,10 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 ---
 ## 🛠️ Projects I've Built
 
+### 📝 Blog Post Application
+A responsive blog platform where users can view posts with titles, descriptions, authors, dates, and images.  
+**Tech Stack:** Next.js, Tailwind CSS, ShadCN UI
+
 ### 📦 Stock Management System
 A dynamic product inventory manager with real-time quantity updates.  
 **Tech Stack:** Next.js, MongoDB, Tailwind CSS, ShadCN UI
@@ -37,10 +41,6 @@ A dynamic product inventory manager with real-time quantity updates.
 ### ☁️ Rainfall Prediction
 ML-based model to predict rainfall based on weather parameters.  
 **Tech Stack:** Python, Flask, React, Scikit-learn
-
-### 📝 Blog Post Application
-A responsive blog platform where users can view posts with titles, descriptions, authors, dates, and images.  
-**Tech Stack:** Next.js, Tailwind CSS, ShadCN UI
 
 ### 💬 ChatGPT Clone
 A simple conversational AI app exploring large language models.  

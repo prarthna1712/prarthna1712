@@ -52,7 +52,7 @@ ML-based model to predict rainfall based on weather parameters.
 
 ### 💬 ChatGPT Clone
 A simple conversational AI app exploring large language models.  
-**Tech Stack:** Next.js, OpenAI API, WebSocket
+**Tech Stack:** Next.js, Firebase
 
 
 ---

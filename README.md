@@ -11,6 +11,9 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%23202020?style=for-the-badge&logo=radixui&logoColor=white)
+
 
 ---
 

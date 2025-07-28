@@ -38,15 +38,15 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 ---
 ## 🛠️ Projects I've Built
 
-### 📝 Blog Post Application
+### 📝 Blogify Application
 A responsive blog platform where users can view posts with titles, descriptions, authors, dates, and images.  
 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI
 
-### 📦 Stock Management System
+### 📦 Iventra System
 A dynamic product inventory manager with real-time quantity updates.  
 **Tech Stack:** Next.js, MongoDB, Tailwind CSS, ShadCN UI
 
-### ☁️ Rainfall Prediction
+### ☁️ Rain-anlytics 
 ML-based model to predict rainfall based on weather parameters.  
 **Tech Stack:** Python, Flask, React, Scikit-learn
 

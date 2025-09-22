@@ -37,6 +37,9 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 
 ---
 ## 🛠️ Projects I've Built
+### 🔫 Weapon Detection System
+A deep learning-based system that detects weapons in videos or live camera feeds and highlights detected frames.  
+**Tech Stack:** Python, TensorFlow/Keras, OpenCV, CSV for analytics
 
 ### 📝 Blogify Application
 A responsive blog platform where users can view posts with titles, descriptions, authors, dates, and images.  
@@ -53,6 +56,8 @@ ML-based model to predict rainfall based on weather parameters.
 ### 💬 ChatGPT Clone
 A simple conversational AI app exploring large language models.  
 **Tech Stack:** Next.js, Firebase
+
+
 
 
 ---

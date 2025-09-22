@@ -41,6 +41,10 @@ Welcome to my GitHub! I'm an engineering student passionate about building real-
 A deep learning-based system that detects weapons in videos or live camera feeds and highlights detected frames.  
 **Tech Stack:** Python, TensorFlow/Keras, OpenCV, CSV for analytics
 
+### 🏔️ HillClimbAutomation
+An automation system for the Hill Climbing game using OpenCV and MediaPipe to simulate keypresses and navigate obstacles.  
+**Tech Stack:** Python, OpenCV, MediaPipe
+
 ### 📝 Blogify Application
 A responsive blog platform where users can view posts with titles, descriptions, authors, dates, and images.  
 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI

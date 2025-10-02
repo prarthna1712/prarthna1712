@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Prarthana  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prarthana-bhalerao)
 
-Welcome to my GitHub! I'm an Computer Science engineer passionate about building real-world solutions through software development and AI.
+Welcome to my GitHub! I'm an Computer Science Engineer passionate about building real-world solutions through software development and AI.
 
 ---
 

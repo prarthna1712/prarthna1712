@@ -49,7 +49,7 @@ An automation system for the Hill Climbing game using OpenCV and MediaPipe to si
 A responsive blog platform where users can view posts with titles, descriptions, authors, dates, and images.  
 **Tech Stack:** Next.js, Tailwind CSS, ShadCN UI
 
-### 📦 Iventra System
+### 📦 Inventra System
 A dynamic product inventory manager with real-time quantity updates.  
 **Tech Stack:** Next.js, MongoDB, Tailwind CSS, ShadCN UI
 
